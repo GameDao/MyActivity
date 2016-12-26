@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * 表示正在重新启动,一般情况下,当
+     * 表示正在重新启动,一般情况下,当当前的
      */
     @Override
     protected void onRestart() {
